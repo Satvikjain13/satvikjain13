@@ -31,5 +31,5 @@
 ---
 
 ## Connect With Me
-- LinkedIn: (https://www.linkedin.com/in/satvik-jain-b1b939246](https://www.linkedin.com/in/satvik-jain-b1b939246/)
+- LinkedIn: (https://www.linkedin.com/in/satvik-jain-b1b939246/)
 - Email: satvikjain.dev@gmail.com
