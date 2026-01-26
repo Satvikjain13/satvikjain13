@@ -19,7 +19,7 @@
 - **Backend:** JDBC, Servlets (learning Spring Boot)
 - **Databases:** MySQL
 - **Tools:** Git, GitHub, Linux
-- **Concepts:** OOP, DSA, DBMS, Computer Networks
+- **Concepts:** OOP, DSA, DBMS, Computer Networks.
 
 ---
 
